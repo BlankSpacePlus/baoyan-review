@@ -20,6 +20,7 @@
 - [面向对象的基本理论](https://blog.csdn.net/weixin_43896318/category_10869087.html)
 - [软件项目管理与过程改进](https://blog.csdn.net/weixin_43896318/category_9867109.html)
 - [软件质量保证与软件测试](https://blog.csdn.net/weixin_43896318/category_9747018.html)
+- [数字逻辑设计](https://blog.csdn.net/weixin_43896318/category_9897724.html)
 
 ## 二轮复习分类专栏
 - [面向对象的软件工程](面向对象的软件工程.md)
