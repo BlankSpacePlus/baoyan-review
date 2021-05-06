@@ -6,6 +6,10 @@
 - 大鹏一日同风起，扶摇直上九万里。
 - 尽吾志也而不能至者，可以无悔矣，其孰能讥之乎？
 
+## 计算机界名言
+- Don't call us, we will call you.
+- Talk is cheap, show me your code.
+
 ## 一轮复习核心专栏
 - [计算机科学基础理论](https://blog.csdn.net/weixin_43896318/category_9442221.html)
 - [算法分析与设计](https://blog.csdn.net/weixin_43896318/category_9461965.html)
